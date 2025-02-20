@@ -20,7 +20,7 @@ public class ClaseUno {
         objPersona.setNacionalidad("Ecuador");
         objPersona.setFechaNacimiento("2004");
         objPersona.imprimirDatos();
-        System.out.println("Datos"+objPersona.imprimirDatos());
+        System.out.println("Datos- "+objPersona.imprimirDatos());
         objPersona.imprimir();
     }
 }

@@ -72,7 +72,7 @@ public class Persona {
         System.out.println(" Nombre: "+this.nombre+" Apellido: "+this.apellido+" Nacionalidad: "+this.nacionalidad+" Fecha de Nacimiento: "+this.fechaNacimiento);
     }
     public String imprimirDatos(){
-    return "Nombre: "+this.nombre+ "/n Apellido: "+this.apellido+"/n";
+    return " Nombre: "+this.nombre+ "\n Apellido: "+this.apellido+"\n ID: "+this.id+"\n Nacionalidad: "+this.nacionalidad+"\n Fecha de Nacimiento: "+this.fechaNacimiento;
     }
     
 }
