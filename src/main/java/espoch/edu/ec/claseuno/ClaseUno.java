@@ -39,13 +39,8 @@ public class ClaseUno {
        
        objHorario.setDiaLaboral("Lunes");
         
-        
         System.out.println("Resultado"+objPersona.identificarDiaTrabajado(objHorario));
-        
-        
-
-               
-       
+     
        
       System.out.println("Result"+objPersona.situacionTrabajo(objHorario));
     
